@@ -1,0 +1,10 @@
+.point {
+  background-color: tomato;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  display: flex;
+  right: 18px;
+  top: 53px;
+}
